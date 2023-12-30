@@ -9,7 +9,6 @@ Welcome to the C Data Structure Tutorial repository! This repository contains ed
 - [Content](#content)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
